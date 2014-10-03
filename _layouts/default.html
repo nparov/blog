@@ -5,13 +5,13 @@
 
   <body id="page-top" class="index">
 
-    <div class="container content">
+    <div class="container-fluid">
       {% include navbar.html %}
-
-      <main>
-        {{ content }}
-      </main>
-
+    </div>
+    <div class="content container">
+        <main>
+          {{ content }}
+        </main>
     </div>
     {% include footer.html %}
     {% include js.html %}
