@@ -15,7 +15,7 @@ relative_permalinks: true
 # Setup
 title:            NPA OpenROV Blog
 tagline:          A high school STEM program
-url:              http://getpoole.com
+url:              http://www.nparov.com
 paginate:         1
 baseurl:          /
 
@@ -34,4 +34,4 @@ address:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/nparov/blog
