@@ -15,3 +15,5 @@ See northcoastprep.org for more information about the school.
 ***
 
 And that's the way it is, folks.
+
+See this page's markdown file [here](https://github.com/nparov/blog/raw/gh-pages/_posts/2014-10-03-hello-world.md) or at the GitHub Repository
