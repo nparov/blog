@@ -17,7 +17,7 @@ title:            NPA OpenROV Blog
 tagline:          A high school STEM program
 url:              http://www.nparov.com
 paginate:         5
-baseurl:          /
+baseurl:          
 paginate_path: "page:num"
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
