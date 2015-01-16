@@ -44,3 +44,6 @@ validation-report.json
 # Folders to ignore
 node_modules
 nparov.github.io-master
+
+# sassc symlink
+sassc
