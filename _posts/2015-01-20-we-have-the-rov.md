@@ -1,0 +1,18 @@
+---
+layout: post
+title: We have the ROV!
+---
+
+The ROV is here in Arcata, CA, USA! And that means that it is time to thank our contributors:
+* Peter Williams
+* Marliese Tollner
+* GHD (bought Winzler and Kelly)
+* GHD Staff
+* The Shop (Arcata, CA)
+* Parents and Relatives
+* Others to be added when the Junior/Senior play is completed
+
+Thanks you to all of our contributors!  
+
+We will put the unpacking ceremony video on YouTube and link to it as soon as it uploads.
+The building process will start this week on Friday!
