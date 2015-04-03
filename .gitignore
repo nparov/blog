@@ -47,3 +47,6 @@ nparov.github.io-master
 
 # sassc symlink
 sassc
+
+# Gemfile.lock from Bundler
+Gemfile.lock
